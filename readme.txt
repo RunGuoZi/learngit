@@ -6,3 +6,4 @@ It's amazing!
 Creating a new branch is quick and simple.
 add merge
 fast forward
+Today is cold.
